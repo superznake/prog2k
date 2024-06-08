@@ -1,1 +1,20 @@
+prog3
+  -1 ready
+  -2 ready
+  -3 in process
+  -4 in process
+  -5 in process
+  -6 in process
+  -7 in process
 
+prog4
+  -1 in process
+  -2 in process
+  -3|4 in process
+  -5 in process
+  -6 in process
+  -7 in process
+  -8 in process
+  -9 in process
+  -10 in process
+  -11 in process
