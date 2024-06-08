@@ -1,0 +1,2 @@
+вариант №9
+Root = 9; height = 6, left_leaf = root*2+1, right_leaf = 2*root-1
